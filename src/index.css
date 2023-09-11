@@ -1,9 +1,13 @@
 body {
   margin: 0;
   padding: 0;
+  height: 100vh;
   font-family: sans-serif;
+  display: grid;
+  place-content: center;
 }
 
 img {
   max-width: 100%;
+  border-radius: 8px;
 }
